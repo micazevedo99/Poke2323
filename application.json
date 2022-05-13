@@ -1,0 +1,21 @@
+{
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#EAEDFB",
+  "icon": "flight",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "createdAt": {
+    "seconds": 1652468449,
+    "nanos": 210000000
+  },
+  "deleted": false
+}
